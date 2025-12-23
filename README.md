@@ -9,7 +9,7 @@
 
 - 💻 **Software Developer** passionate about backend engineering  
 - ☕ Strong in **Java, OOPs, DSA & problem-solving**  
-- 🌱 Currently learning **Spring Boot, Cloud & AI fundamentals**  
+- 🌱 Currently learning **Docker, Cloud & C++**  
 - 🤝 Open to **Backend / Full-Stack (Spring, MERN)** collaborations  
 - 🎓 Pursuing **Computer Science & Engineering**  
 - 💬 Ask me about **Java, Backend APIs, Git, or Competitive Programming**  
@@ -63,7 +63,7 @@
 AI-driven cloud-native platform using microservices & Docker  
 🔗 https://github.com/SimranNadaf2608/Geo-Poverty-Analyzer
 
-🧠 DSA & Problem Solving
+🧠 **DSA & Problem Solving**
 Optimized solutions to DSA problems  
 🔗 https://github.com/SimranNadaf2608/dsa-java
 
