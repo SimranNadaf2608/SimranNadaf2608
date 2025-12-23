@@ -74,8 +74,8 @@ Optimized solutions to DSA problems
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimranNadaf2608&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimranNadaf2608&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SimranNadaf2608&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimranNadaf2608&theme=tokyonight" width="48%" />
 </p>
 
 ---
