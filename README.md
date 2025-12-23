@@ -69,7 +69,7 @@ AI-driven cloud-native platform using microservices & Docker
 🔗 https://github.com/SimranNadaf2608/Geo-Poverty-Analyzer
 
 🧠 **DSA & Problem Solving**
-Optimized solutions to DSA problems  
+- Optimized solutions to DSA problems  
 🔗 https://github.com/SimranNadaf2608/dsa-java
 
 ---
