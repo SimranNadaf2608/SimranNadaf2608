@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Simran+Nadaf;Software+Developer;Backend+%7C+Java+%7C+DSA+Enthusiast;Aspiring+Cloud+Native+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Simran+Nadaf;Software+Developer;Backend+%7C+Java+%7C+DSA+Enthusiast" />
 </p>
 
 ---
@@ -63,9 +63,10 @@
 AI-driven cloud-native platform using microservices & Docker  
 🔗 https://github.com/SimranNadaf2608/Geo-Poverty-Analyzer
 
-🧠 **DSA & Problem Solving**  
+🧠 DSA & Problem Solving
 Optimized solutions to DSA problems  
-🔗 https://github.com/SimranNadaf2608/dsa-java 
+🔗 https://github.com/SimranNadaf2608/dsa-java
+
 ---
 
 ### 📊 GitHub Stats
