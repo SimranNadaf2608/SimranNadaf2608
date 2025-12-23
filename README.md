@@ -7,6 +7,8 @@
 
 ### 👩‍💻 About Me
 
+<img align="right" src="https://komarev.com/ghpvc/?username=SimranNadaf2608&label=Profile%20views&color=0e75b6&style=flat" />
+
 - 💻 **Software Developer** passionate about backend engineering  
 - ☕ Strong in **Java, OOPs, DSA & problem-solving**  
 - 🌱 Currently learning **Docker, Cloud & C++**  
@@ -89,12 +91,5 @@ Optimized solutions to DSA problems
 
 ---
 
-### 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SimranNadaf2608&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ✨ *“Consistency beats talent when talent doesn’t work consistently.”*  
