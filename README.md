@@ -1,34 +1,30 @@
-<h1 align="center">Hi there 👋, I'm Simran Nadaf S</h1>
-<h3 align="center">Software Developer</h3>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Simran+Nadaf;Software+Developer;Backend+%7C+Java+%7C+DSA+Enthusiast;Aspiring+Cloud+Native+Engineer" alt="Typing SVG" />
+</p>
 
 ---
 
-### 👋 About Me
+### 👩‍💻 About Me
 
-- 🤖 I’m currently working on an **AI model**
-- 🌱 Currently learning **AI & Machine Learning**
-- 🤝 Looking to collaborate on **Website Development (Spring / MERN)**
-- 🧠 Looking for help with **understanding AI algorithms**
-- 🎓 Studying **Information Science & Engineering**
-- 💬 Ask me about **Backend, Java, or Competitive Programming**
-- 📫 Reach me at **sumukh.codes@gmail.com**
+- 💻 **Software Developer** passionate about backend engineering  
+- ☕ Strong in **Java, OOPs, DSA & problem-solving**  
+- 🌱 Currently learning **Spring Boot, Cloud & AI fundamentals**  
+- 🤝 Open to **Backend / Full-Stack (Spring, MERN)** collaborations  
+- 🎓 Pursuing **Computer Science & Engineering**  
+- 💬 Ask me about **Java, Backend APIs, Git, or Competitive Programming**  
+- 📫 Email: **simrannadaf2608@gmail.com**
 
 ---
 
-### 🌐 Socials
+### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.instagram.com/your_username" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/your_linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/simran-nadaf" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/your_twitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@your_channel" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://github.com/SimranNadaf2608" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -36,27 +32,62 @@
 
 ### 💻 Tech Stack
 
+#### 🚀 Languages
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+#### 🌐 Web & Backend
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
+
+#### 🛠 Tools & Databases
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+🚧 *Actively building real-world backend & cloud projects*  
+(Projects will be pinned here)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SimranNadaf2608&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimranNadaf2608&theme=tokyonight" width="48%"/>
 </p>
 
+---
+
+### 🧠 Most Used Languages
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranNadaf2608&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+### 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SimranNadaf2608&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+✨ *“Consistency beats talent when talent doesn’t work consistently.”*  
