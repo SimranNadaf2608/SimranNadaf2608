@@ -11,7 +11,6 @@
 
 - 💻 **Software Developer** passionate about backend engineering  
 - ☕ Strong in **Java, OOPs, DSA & problem-solving**  
-- 🌱 Currently learning **Docker, Cloud & C++**  
 - 🤝 Open to **Backend / Full-Stack (Spring, MERN)** collaborations  
 - 🎓 Pursuing **Computer Science & Engineering**  
 - 💬 Ask me about **Java, Backend APIs, Git, or Competitive Programming**  
@@ -37,7 +36,6 @@
 #### 🚀 Languages
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
@@ -56,7 +54,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
