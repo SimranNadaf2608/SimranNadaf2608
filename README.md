@@ -11,7 +11,7 @@
 
 - 💻 **Software Developer** passionate about backend engineering  
 - ☕ Strong in **Java, OOPs, DSA & problem-solving**  
-- 🤝 Open to **Backend / Full-Stack (Spring, MERN)** collaborations  
+- 🤝 Open to **Backend / Full-Stack (MERN)** collaborations  
 - 🎓 Pursuing **Computer Science & Engineering**  
 - 💬 Ask me about **Java, Backend APIs, Git**  
 - 📫 Email: **simrannadaf2608@gmail.com**
