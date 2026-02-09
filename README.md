@@ -76,13 +76,5 @@ AI-driven cloud-native platform using microservices & Docker
 
 ---
 
-### 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranNadaf2608&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 
 ✨ *“Consistency beats talent when talent doesn’t work consistently.”*  
