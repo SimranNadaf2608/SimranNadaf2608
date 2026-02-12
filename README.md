@@ -63,9 +63,13 @@
 
 ### 📌 Featured Projects
 🚧 *Actively building real-world backend & cloud projects*  
-🌍 **Geo-Poverty Analyzer**  
+🌍 **GeoVision- A Geospatial Assessment of Poverty and Community Development**  
 AI-driven cloud-native platform using microservices & Docker  
 🔗 https://github.com/SimranNadaf2608/Geo-Poverty-Analyzer
+
+💻 **AI- Powered AutomatedTrading Platform**
+AI- Powered AutomatedTrading Platform using python and typeScript
+
 
 ---
 
