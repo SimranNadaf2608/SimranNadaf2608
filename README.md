@@ -69,7 +69,7 @@ AI-driven cloud-native platform using microservices & Docker
 
 💻 **AI- Powered AutomatedTrading Platform**
 AI- Powered AutomatedTrading Platform using python and typeScript
-
+🔗 https://github.com/SimranNadaf2608/AI-Trading-Platform.git
 
 ---
 
