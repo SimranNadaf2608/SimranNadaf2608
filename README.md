@@ -35,7 +35,6 @@
 
 #### 🚀 Languages
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
