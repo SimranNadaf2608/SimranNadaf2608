@@ -9,11 +9,10 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=SimranNadaf2608&label=Profile%20views&color=0e75b6&style=flat" />
 
-- 💻 **Software Developer** passionate about backend engineering  
+- 💻 **Software Developer** 
 - ☕ Strong in **Java, OOPs, DSA & problem-solving**  
 - 🤝 Open to **Backend / Full-Stack collaborations**  
-- 🎓 Pursuing **Computer Science & Engineering**  
-- 💬 Ask me about **Java, Backend APIs, Git**  
+- 🎓 Pursuing **Computer Science & Engineering**   
 - 📫 Email: **simrannadaf2608@gmail.com**
 
 ---
@@ -73,7 +72,6 @@ AI-driven cloud-native platform using microservices & Docker
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimranNadaf2608&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimranNadaf2608&theme=tokyonight" width="48%" />
 </p>
 
