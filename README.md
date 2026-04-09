@@ -1,16 +1,10 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Simran+Nadaf;Software+Developer;Backend+%7C+Java+%7C+DSA+Enthusiast" />
-</p>
-
----
 
 ### 👩‍💻 About Me
 
 <img align="right" src="https://komarev.com/ghpvc/?username=SimranNadaf2608&label=Profile%20views&color=0e75b6&style=flat" />
 
-- 💻 **Software Developer** 
-- ☕ Strong in **Java, OOPs, DSA & problem-solving**  
+- 💻 **AI and Python Developer** 
+- ☕ Strong in **Python, OOPs, DSA & problem-solving**  
 - 🤝 Open to **Backend / Full-Stack collaborations**  
 - 🎓 Pursuing **Computer Science & Engineering**   
 - 📫 Email: **simrannadaf2608@gmail.com**
