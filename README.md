@@ -32,10 +32,6 @@
 </p>
 <p>
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
