@@ -3,7 +3,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=SimranNadaf2608&label=Profile%20views&color=0e75b6&style=flat" />
 
-- 💻 **AI and Python Developer** 
+- 💻 **Python Developer** 
 - ☕ Strong in **Python, OOPs, DSA & problem-solving**  
 - 🤝 Open to **Backend / Full-Stack collaborations**  
 - 🎓 Pursuing **Computer Science & Engineering**   
@@ -48,18 +48,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
-
----
-
-### 📌 Featured Projects
-🚧 *Actively building real-world backend & cloud projects*  
-🌍 **GeoVision- A Geospatial Assessment of Poverty and Community Development**  
-AI-driven cloud-native platform using microservices & Docker  
-🔗 https://github.com/SimranNadaf2608/Geo-Poverty-Analyzer.git
-
-💻 **AI- Powered AutomatedTrading Platform**  
-AI- Powered AutomatedTrading Platform using python and typeScript  
-🔗 https://github.com/SimranNadaf2608/AI-Trading-Platform.git
 
 ---
 
